@@ -1,0 +1,21 @@
+{
+  "tema": "attualità a 360 gradi: Italia, mondo, economia, politica, tecnologia",
+  "criteri": "Voti alti (4-5): fatti che cambiano la vita delle persone o che tutti commenteranno oggi, come decreti e leggi approvate, decisioni di governo e BCE, tasse e accise, crisi internazionali, grandi disastri, elezioni, scioperi nazionali, notizie economiche con impatto sui prezzi. Voti medi (3): notizie rilevanti ma di settore. Voti bassi (1-2): gossip, cronaca locale minore, sport di routine, opinioni, contenuti promozionali.",
+  "parole_calde": [
+    "ultim'ora", "ultima ora", "decreto", "approvat", "governo", "consiglio dei ministri",
+    "legge di bilancio", "manovra", "bce", "tassi", "inflazione", "accise", "tasse",
+    "sciopero", "terremoto", "alluvione", "guerra", "attacco", "cessate il fuoco",
+    "elezioni", "dimissioni", "morto", "è morta", "tabacc", "sigarett",
+    "breaking", "war", "ceasefire", "election", "resigns"
+  ],
+  "feeds": [
+    {"nome": "ANSA Ultima ora", "url": "https://www.ansa.it/sito/notizie/topnews/topnews_rss.xml"},
+    {"nome": "ANSA Economia", "url": "https://www.ansa.it/sito/notizie/economia/economia_rss.xml"},
+    {"nome": "ANSA Mondo", "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml"},
+    {"nome": "ANSA Tecnologia", "url": "https://www.ansa.it/sito/notizie/tecnologia/tecnologia_rss.xml"},
+    {"nome": "Corriere della Sera", "url": "https://xml2.corriereobjects.it/rss/homepage.xml"},
+    {"nome": "Repubblica", "url": "https://www.repubblica.it/rss/homepage/rss2.0.xml"},
+    {"nome": "Il Post", "url": "https://www.ilpost.it/feed/"},
+    {"nome": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"}
+  ]
+}
